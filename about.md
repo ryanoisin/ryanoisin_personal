@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a PhD candidate in the Methods and Statistics department (faculty of Social Sciences) at Utrecht University. Having graduated cum laude from the M&S research masters programme at Utrecht University in 2015, I received an Talent Grant from NWO for the PhD project *Not straightforward: Mediation and networks in continuous time* under the daily supervision of Ellen Hamaker.My PhD project focuses on the use of differential-equation or continuous-time models for the analysis of dynamic systems in psychology.
+
+My project touches on diverse fields such as SEM, time-series analysis, stochastic processes, formal approaches to causal inference and complex systems analysis. I currently organize the **Causality Reading Group** at the M&S department, meeting every fortnight. My teaching duties currently include Theory Construction and Statistical Modeling, a bachelor minor course in factor analysis and SEM, and the Mplus Summer School.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[o.ryan@uu.nl](mailto:o.ryan@uu.nl)
