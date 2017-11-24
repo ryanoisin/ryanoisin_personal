@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Continuous Time Modeling
+title: Continous Time Modeling - What, Why and How?
 ---
 
-Now with my text
+I am delighted to share a preprint of a book chapter I have written with Rebecca Kuiper and Ellen Hamaker. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
