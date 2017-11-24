@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-permalink: /papers_pubs/
+permalink: /papers/
 ---
 
 # Papers
