@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Continuous-Time Modeling for Intensive Longitudindal Data: What, Why and How?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am delighted to share a preprint of the book chapter that myself, Rebecca Kuiper and Ellen Hamaker have written, to appear in 2018 in the book *Continuous time modelling in the behavioural and related sciences*, edited by Montfort, Oud and Voekle. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The aim of this chapter is to: a) provide a broad didactical treatment of the first-order stochastic differential equation model - also known as the continuous-time (CT) first-order vector autoregressive (VAR(1)) model; and b) argue for and illustrate the potential of this model for the study of psychological processes using intensive longitudinal data. We begin by describing what the CT-VAR(1) model is, and how it relates to the more commonly used discrete-time VAR(1) models. Assuming no prior knowledge on the part of the reader, we introduce important concepts for the analysis of dynamic systems, such as stability and fixed points. In addition we examine why applied researchers should take a continuous-time approach to psychological phenomena, focusing on both the practical and conceptual benefits of this approach. Finally, we elucidate how researchers can interpret CT models, describing the direct interpretation of CT model parameters as well as tools such as impulse response functions, vector fields, and lagged-parameter plots. To illustrate this methodology we re-analyse a single-subject experience-sampling dataset with the R package ctsem; for didactical purposes, R code for this analysis is included, and the dataset itself is publically available.
