@@ -11,3 +11,5 @@ My project touches on diverse fields such as SEM, time-series analysis, stochast
 ### Contact me
 
 [o.ryan@uu.nl](mailto:o.ryan@uu.nl)
+
+[Utrecht University profile](https://www.uu.nl/staff/ORyan)
