@@ -3,7 +3,9 @@ layout: post
 title: Contradictory Conclusions and Time-Intervals
 ---
 
-Many authors writing about continuous-time modeling have been at pains to point out that the estimates of *cross-lagged* and *autoregressive* effects resulting from discrete-time VAR(1) models can differ greatly depending on the time-interval between observations (e.g. Gollob & Reichardt, 1987; Voelkle & Oud, 2013).  As such, if two researchers are studying the same phenomenon, but one uses an interval of 2 hours between measurements, and the other uses 4 hours, they **may** come to totally different substantive conclusions. However, what the literature has so far failed to address is, in what exact circumstance **will** different time-intervals lead to contradictory conclusions? This is the question Rebecca Kuiper and myself try to tackle in our [latest paper](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf), recently accepted to the teacher's corner section of *Structural Equation Modeling*.
+In what exact circumstances will the use of a different time-interval in data collection lead to totally different substantive conclusions in a cross-lagged design? This is the question Rebecca Kuiper and myself try to tackle in our [latest paper](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf), recently accepted to the teacher's corner section of *Structural Equation Modeling*.
+
+Many authors writing about continuous-time modeling have been at pains to point out that the estimates of *cross-lagged* and *autoregressive* effects resulting from discrete-time VAR(1) models **can** differ greatly depending on the time-interval between observations (e.g. Gollob & Reichardt, 1987; Voelkle & Oud, 2013).  As such, if two researchers are studying the same phenomenon, but one uses , for example, an interval of 2 hours between measurements, and the other uses say 4 hours, they **may** come to totally different substantive conclusions. However, the literature is so far lacking an accessible account of **when** this problem rears it's head? Rebecca and me set out to make this issue clearer; in fact we show that it is only in very specific circumstances that this is guaranteed not to occur.
 
 # Types of conclusions
 In this paper we consider three common types of conclusions researchers are interested in making in designs with many repeated measurement waves, and which are typically based on the estimates of discrete-time VAR(1) models.[^(1)]
@@ -15,7 +17,7 @@ In this paper we consider three common types of conclusions researchers are inte
 3. Does process A have a **positive or negative** effect on process B?
    That is, the sign of the cross-lagged parameter
 
-Assuming that the data-generating process is continuous-time, then these parameters will take on different values depending on the time-interval. Let's further focus on the case where researchers take equal time-intervals between measurements - if this isn't the case, then the parameter estimates will be a mixture of different true parameters anyway.
+Assuming that the data-generating process is a continuous-time VAR(1) model, then these parameters will take on different values depending on the time-interval. Let's further focus on the case where researchers take equal time-intervals between measurements - if this isn't the case, then the parameter estimates will be a mixture of different true parameters anyway.
 
 # When do contradictions (not) occur?
 
