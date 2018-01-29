@@ -35,7 +35,7 @@ Furthermore, if we have a bivariate system which is oscillating (with complex ei
 
 ![Stable Oscillating Bivariate Example](/images/Example-BivarComplex.jpg "Oscillating Bivariate Example")
 
-Here, different conclusions are made based on the *period* of the process. In the figure above, the system has a period of of 2: thus, no contradictory conclusions are made for different time intervals between 0 and 2, **or** between 2 and 4; however the conclusions made based on a time-interval between 0 and 2 differ markedly from those made given a time interval between 2 and 4. More details on periodic-equivalence is given in the full paper.
+Here, different conclusions are made based on the *period* of the process. In the figure above, the system has a period of 2: thus, no contradictory conclusions are made for different time intervals between 0 and 2, **or** between 2 and 4; however the conclusions made based on a time-interval between 0 and 2 differ markedly from those made given a time interval between 2 and 4. More details on periodic-equivalence is given in the full paper.
 
 # Final Remarks
 
