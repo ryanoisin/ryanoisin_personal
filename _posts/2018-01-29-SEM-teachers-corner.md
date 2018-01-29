@@ -18,7 +18,7 @@ Assuming that the data-generating process is continuous-time, then these paramet
 
 It turns out that there is only one very specific circumstance in which we are *guaranteed* not to make contradictory conclusions based on the choice of time interval; when there is a truly bivariate system (so also no unobserved third process!), which behaves in a stable, non-oscillating manner; the eigenvalues of the drift matrix are negative and real (and so the eigenvalues of the DT-VAR(1) model are real and between 0 and 1). Below we have taken an example of such a system and plotted how the lagged-effects matrix changes over different time intervals.
 
-<object data="https://github.com/ryanoisin/ryanoisin.github.io/raw/master/images/Effects-lag-plot_Bivar.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://github.com/ryanoisin/ryanoisin.github.io/raw/master/images/Effects-lag-plot_Bivar.pdf" type="application/pdf" width="250px" height="250px">
     <embed src="https://github.com/ryanoisin/ryanoisin.github.io/raw/master/images/Effects-lag-plot_Bivar.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ryanoisin/ryanoisin.github.io/raw/master/images/Effects-lag-plot_Bivar.pdf">Download PDF</a>.</p>
     </embed>
