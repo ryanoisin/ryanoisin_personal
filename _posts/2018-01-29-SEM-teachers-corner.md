@@ -54,7 +54,10 @@ Voelkle, M. C., & Oud, J. H. L. (2013). Continuous time modelling with individua
 varying time intervals for oscillating and non-oscillating processes. *British Journal of
 Mathematical and Statistical Psychology, 66* , 103-126.
 
+## Footnotes
+
 [^1]: Throughout we frame conclusions based on the true parameters; that is, we do not take into account uncertainty or formal hypotheses tests (e.g., is the parameter significantly different from zero)? This is to show that misleading conclusions may be made even in **ideal** circumstances - that is, when we can estimate the discrete-time model parameters with a very high precision.
+
 [^2]: For a more detailed description of eigenvalues and how they relate to the *behaviour* of systems,  I recommend reading our book chapter which discusses CT models and ESM data, [pre-print available here](https://ryanoisin.github.io/files/RyanKuiperHamaker_2018_chapter_preprint.pdf).
 
 
