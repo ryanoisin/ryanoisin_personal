@@ -2,7 +2,7 @@
 layout: post
 title: Contradictory Conclusions and Time-Intervals
 description: A summary of a paper regarding substantive conclusions drawn from cross-lagged mdoels fitted on repeated measurements data
-keywords:Continuous-Time, longitudinal data, unequal lags, Structural Equation Modeling, SEM, dynamic models, meta-science, granger causality
+keywords: Continuous-Time, longitudinal data, unequal lags, Structural Equation Modeling, SEM, dynamic models, meta-science, granger causality
 ---
 
 In what exact circumstances will the use of a different time-interval in data collection lead to totally different substantive conclusions in a cross-lagged design? This is the question Rebecca Kuiper and myself try to tackle in our [latest paper](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf), recently accepted to the teacher's corner section of *Structural Equation Modeling*.
