@@ -59,6 +59,11 @@ baseurl: ""
 
 permalink: /:title/
 
+# Social links for use with SEO
+#social:
+#  name: Oisín Ryan
+#  links: 
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
@@ -80,7 +85,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-seo # Added to allow for search engine optimisation
+  - jekyll-seo-tag # Added to allow for search engine optimisation
   
 # Exclude these files from your production _site
 exclude:
