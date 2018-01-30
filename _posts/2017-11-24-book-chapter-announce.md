@@ -2,6 +2,7 @@
 layout: post
 title: Continous Time Modeling - What, Why and How?
 description: Introduction to Continuous-Time modeling for intensive longitudinal (ESM) data in Psychology
+keywords: Continuous-time, discrete-time, Vector Autoregressive, VAR, first order, lagged relationships, time interval, experience sampling, repeated measurements data, psychology, dynamic networks
 ---
 
 Myself, Rebecca Kuiper and Ellen Hamaker have recently completed work on a book chapter, providing a broad didactical treatment of the continuous-time (CT) first-order vector autoregressive (VAR(1)) model in the context of psychological research using intensive longitudinal (ESM) data. The pre-print of this book chapter is avaiable for download [here](https://ryanoisin.github.io/files/RyanKuiperHamaker_2018_chapter_preprint.pdf). 
