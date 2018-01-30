@@ -4,7 +4,7 @@
 
 # Added test
 #remote_theme: "rohanchandra/type-theme"
-#title: A personal page about Continuous-Time Dynamic Modeling with Experience Sampling Data in Psychology
+title: A personal page about Continuous-Time Dynamic Modeling with Experience Sampling Data in Psychology
 # Name of your site (displayed in the header)
 name: Oisín Ryan
 
@@ -60,9 +60,13 @@ baseurl: ""
 permalink: /:title/
 
 # Social links for use with SEO
-#social:
-#  name: Oisín Ryan
-#  links: 
+social:
+  name: Oisín Ryan
+  links: 
+  - https://www.linkedin.com/in/oisin-ryan-21406093/
+  - https://www.uu.nl/staff/ORyan
+  - https://www.researchgate.net/profile/Oisin_Ryan
+  
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
