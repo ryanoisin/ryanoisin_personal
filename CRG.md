@@ -8,7 +8,7 @@ permalink: /crg/
 |--------	     |:---------:	          |:---	              |:---:	|
 |12 Oct 17   	|Causation Prediction and Search (chapter 1) <br> by Spirtes Glymour and Scheines  	| Oisín Ryan   	|  [[PDF]](/files/crgpres/CRG1.pdf) 	| 
 |26 Oct 17   	| Causation Prediction and Search (chapter 2) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan   	| [[PDF]](/files/crgpres/CRG2_notes.pdf)  	|
-|9 Nov 17  	| Causation Prediction and Search (2.3-3) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan   	| [[PDF]](/files/crgpres/CRG3_notes.pdf)  	|
+|9 Nov 17  	| Causation Prediction and Search (2.3-3.0) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan   	| [[PDF]](/files/crgpres/CRG3_notes.pdf)  	|
 |23 Nov 17  	| Causation Prediction and Search (3.0-3.3) <br> by Spirtes Glymour and Scheines   	| Kim Luijken & <br> Jeroen Mulder  	| [[PDF]](/files/crgpres/CRG4_notes.pdf)  	|
 |7 Dec 17  	| Causation Prediction and Search (3.3-3.6) <br> by Spirtes Glymour and Scheines   	| Erik-Jan van Kesteren  	| [[PDF]](/files/crgpres/CRG5_notes.pdf)  	|
 |18 Jan 18  	| Causation Prediction and Search (3.7-4.0) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG6_notes.pdf) <br> [[R-code]](/files/crgpres/faithful_finder.R)|
