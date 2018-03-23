@@ -10,4 +10,4 @@ Since Autumn 2017 the format of this meeting is that some reading material is pr
 
 So far in 2017/2018 we have looked at directed acyclical graphs, alrogrithms to find DAGs from data, and Lord's paradox.
 
-You can find all of the information about these meetings, including the reading materials, discusscant, and discussant materials, [[here]](/crg/)
+You can find all of the information about these meetings, including the reading materials, discusscant, and discussant materials, [[here]](https://ryanoisin.github.io/crg/)
