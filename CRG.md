@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The M&S Causality Reading Group
+title: Causality Reading Group
 permalink: /crg/
 ---
 
