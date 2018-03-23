@@ -14,7 +14,7 @@ Below you can find the topics of these meetings along with discussant summaries 
 
 
 |**Date**  |**Reading**  	|**Discussant**   	|**Materials**  	|
-|---	     |---	          |---	              |---	|
+|--------	     |:---------:	          |:---	              |:---:	|
 |12 Oct 17   	|Causation Prediction and Search (chapter 1) <br> by Spirtes Glymour and Scheines  	| Oisín Ryan   	|  [[PDF]](/files/crgpres/CRG1.pdf) 	| 
 |26 Oct 17   	| Causation Prediction and Search (chapter 2) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan   	| [[PDF]](/files/crgpres/CRG2_notes.pdf)  	|
 |9 Nov 17  	| Causation Prediction and Search (2.3-3) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan   	| [[PDF]](/files/crgpres/CRG3_notes.pdf)  	|
