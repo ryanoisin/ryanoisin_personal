@@ -22,4 +22,4 @@ Below you can find the topics of these meetings along with discussant summaries 
 |7 Dec 17  	| Causation Prediction and Search (3.3-3.6) <br> by Spirtes Glymour and Scheines   	| Erik-Jan van Kesteren  	| [[PDF]](/files/crgpres/CRG5_notes.pdf)  	|
 |18 Jan 18  	| Causation Prediction and Search (3.7-4.0) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG6_notes.pdf) <br> [[R-code]](/files/crgpres/faithful_finder.R)|
 |22 Jan 18  	| The [PC algorithm](https://cran.r-project.org/web/packages/pcalg/index.html) <br> (joint meeting with [MSDSLab](https://msdatasciencelab.wordpress.com/2018/02/15/22-02-2018-discovering-causal-structure-with-the-pc-algorithm/))   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG7MSDS.pdf) <br> [[Tutorial]](https://github.com/msdslab/pcalg)|
-|15 Mar 18  	| [Lord's Paradox Revisited - (Oh Lord! Kumbaya!)](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058) <br> by Judea Pearl (2016)   	| Ellen Hamaker	| [[PDF]](/files/crgpres/CRG8.pdf)|
+|15 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058) <br> by Judea Pearl (2016)   	| Ellen Hamaker	| [[PDF]](/files/crgpres/CRG8.pdf)|
