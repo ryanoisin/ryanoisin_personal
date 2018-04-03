@@ -14,5 +14,5 @@ permalink: /crg/
 |18 Jan 18  	| Causation Prediction and Search (3.7-4.0) <br> by Spirtes Glymour and Scheines   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG6_notes.pdf) <br> [[R-code]](/files/crgpres/faithful_finder.R)|
 |22 Jan 18  	| The [PC algorithm](https://cran.r-project.org/web/packages/pcalg/index.html) <br> (joint meeting with [MSDSLab](https://msdatasciencelab.wordpress.com/2018/02/15/22-02-2018-discovering-causal-structure-with-the-pc-algorithm/))   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG7MSDS.pdf) <br> [[Tutorial]](https://github.com/msdslab/pcalg)|
 |15 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058) <br> by Judea Pearl (2016)   	| Ellen Hamaker	| [[PDF]](/files/crgpres/CRG8.pdf)|
-|29 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058) <br> by Judea Pearl (2016) <br>
+|29 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058)  <br>
 Regression towards the Mean | Ellen Hamaker	| [[R-script 1]](/files/crgpres/regression_towards_mean.R) <br> [[R-script 2]](/files/crgpres/ols_vs_pca_manipulate.R)|
