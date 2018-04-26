@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-Ryan, O. (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf)[[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+Ryan, O. (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 Kuiper, R.M., & Ryan, O. (accepted)  Drawing Conclusions from Cross-Lagged Relationships: Re-considering the role of the time-interval. *Structural Equation Modeling*.[[Pre-Print PDF]](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf) [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2018.1431046)
 
