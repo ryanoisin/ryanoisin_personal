@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+Ryan, O. (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf)[[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+
 Kuiper, R.M., & Ryan, O. (accepted)  Drawing Conclusions from Cross-Lagged Relationships: Re-considering the role of the time-interval. *Structural Equation Modeling*.[[Pre-Print PDF]](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf) [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2018.1431046)
 
 Ryan, O., Kuiper, R. M., & Hamaker, E. L. (scheduled to appear in 2018). A continuous time approach to intensive longitudinal data: What, Why and How? In K. v. Montfort, J. H. L. Oud, & M. C. Voelkle (Eds.), *Continuous time modeling in the behavioral and related sciences*. New York: Springer.[[Pre-Print PDF]](https://ryanoisin.github.io/files/RyanKuiperHamaker_2018_chapter_preprint.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/continuous_time-ILD-what-why-how)
