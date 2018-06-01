@@ -38,5 +38,7 @@ Ryan, O. (2018) Dynamic Structural Equation Modeling of Intensive Longitudinal D
 
 Ryan, O. (2018) Introduction to Continuous-Time VAR(1) models. ERC skills meeting, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), Department of Psychiatry, University Medical Centre Groningen. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/GroningenSkills18_1.pdf) [[Example Code]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/groningen_analysis_annotated.R)
 
+Ryan, O. (2018) Causal inference with the PC algorithm. Methods and Statistics Data Science Lab (MSDSLab), Utrecht University. [[Slides]](/files/crgpres/CRG7MSDS.pdf) [[Extra Materials]](https://github.com/msdslab/pcalg)
+
 Ryan, O. (2017) Introduction to Continuous-Time VAR(1) models. Psychological Networks Amsterdam Summer School, University of Amsterdam, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/PNASS_1.pdf)
 
