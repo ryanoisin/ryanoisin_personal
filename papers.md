@@ -9,9 +9,10 @@ permalink: /papers/
 Ryan, O. (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
-Kuiper, R.M., & Ryan, O. (2018)  Drawing Conclusions from Cross-Lagged Relationships: Re-considering the role of the time-interval. *Structural Equation Modeling* DOI: 10.1080/10705511.2018.1431046.[[Pre-Print PDF]](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf) [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2018.1431046)
 
 Ryan, O., Kuiper, R. M., & Hamaker, E. L. (scheduled to appear in 2018). A continuous time approach to intensive longitudinal data: What, Why and How? In K. v. Montfort, J. H. L. Oud, & M. C. Voelkle (Eds.), *Continuous time modeling in the behavioral and related sciences*. New York: Springer.[[Pre-Print PDF]](https://ryanoisin.github.io/files/RyanKuiperHamaker_2018_chapter_preprint.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/continuous_time-ILD-what-why-how)
+
+Kuiper, R.M., & Ryan, O. (2018)  Drawing Conclusions from Cross-Lagged Relationships: Re-considering the role of the time-interval. *Structural Equation Modeling* DOI: 10.1080/10705511.2018.1431046.[[Pre-Print PDF]](https://ryanoisin.github.io/files/KuiperRyan_2018_DrawingConclusions_SEM.pdf) [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2018.1431046)
 
 van de Schoot, R., Winter, S. D., Ryan, O., Zondervan-Zwijnenburg, M., & Depaoli, S. (2017). A systematic review of Bayesian articles in psychology: The last 25 years. *Psychological Methods*, *22*(2), 217. [[Full-text on ResearchGate]](https://www.researchgate.net/publication/317831797_A_systematic_review_of_Bayesian_articles_in_psychology_The_last_25_years)
 
@@ -30,7 +31,11 @@ Ryan, O. (2017) Mediation and Causal Mechanism: A continuous-time approach. 8th 
 Ryan, O. & Hamaker, E.L. (2017) Dynamical Network Analysis: A continuous-time approach. 5th conference of the Society for Ambulatory Assessment (SAA 2017), Esch-sur-Alzette, Luxembourg.
 [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/SAA_5_169.pdf)
 
-Ryan, O. (2017) Mediation and Causal Mechanisms: A continuous-time approach. International Convention of Psychological Science (ICPS), Vienna, Austria. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/ICPS_1_6.pdf) 
+Ryan, O. (2017) Mediation and Causal Mechanisms: A continuous-time approach. International Convention of Psychological Science (ICPS), Vienna, Austria. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/ICPS_1_6.pdf)
+
+Ryan, O. (2016) Mediation and path-specific effects in continuous-time VAR(1) models. Dynamical Systems Modeling Expert Meeting, [[(EHPS/DHP 2016)]](http://ehps2016.org/dsm.html), Aberdeen, Scotland. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Aberdeen16_4.pdf)
+
+Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Modeling. Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS) 31st Summer Conference, Twente, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/iops16_6.pdf)
 
 ## Invited presentations and workshops
 
