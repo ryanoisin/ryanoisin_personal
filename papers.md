@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: Papers
 permalink: /papers/
 ---
-# Papers
 
 ## Under review/submitted
 Ryan, O. (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
