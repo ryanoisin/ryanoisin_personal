@@ -32,7 +32,7 @@ Ryan, O. & Hamaker, E.L. (2017) Dynamical Network Analysis: A continuous-time ap
 
 Ryan, O. (2017) Mediation and Causal Mechanisms: A continuous-time approach. International Convention of Psychological Science (ICPS), Vienna, Austria. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/ICPS_1_6.pdf)
 
-Ryan, O. (2016) Mediation and path-specific effects in continuous-time VAR(1) models. Dynamical Systems Modeling Expert Meeting, [[(EHPS/DHP 2016)]](http://ehps2016.org/dsm.html), Aberdeen, Scotland. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Aberdeen16_4.pdf)
+Ryan, O. (2016) Mediation and path-specific effects in continuous-time VAR(1) models. Dynamical Systems Modeling Expert Meeting, [(EHPS/DHP 2016)](http://ehps2016.org/dsm.html), Aberdeen, Scotland. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Aberdeen16_4.pdf)
 
 Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Modeling. Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS) 31st Summer Conference, Twente, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/iops16_6.pdf)
 
