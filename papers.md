@@ -20,9 +20,9 @@ Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen
 # Presentations
 
 Ryan, O. & Haslbeck, J.M.B (2018) Challenges in characterizing psychopathologies as unhealthy
-dynamic systems. Conference on Complex Systems (CCS), Thessaloniki, Greece [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/CCS_OR_web.pdf)
+dynamic systems. Conference on Complex Systems (CCS), Thessaloniki, Greece. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/CCS_OR_web.pdf)
 
-Ryan, O. & Hamaker, E.L. (2018) Centrality and Interventions in Continuous-Time Dynamical Networks. 30th Association for Psychological Science (APS) Annual Convention. San Francisco, USA [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/APS18_OR.pdf)
+Ryan, O. & Hamaker, E.L. (2018) Centrality and Interventions in Continuous-Time Dynamical Networks. 30th Association for Psychological Science (APS) Annual Convention. San Francisco, USA. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/APS18_OR.pdf)
 
 Ryan, O., Bringmann, L.F. & Schuurman, N.K. (2017) Partial Correlation Networks and DAGs: The causal skeleton in the closet. 9th Lab Meeting Dynamical Networks and Time Series Models, Amsterdam, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/dysyslab_2.pdf)
 
