@@ -5,7 +5,7 @@ description: Introduction to Continuous-Time modeling for intensive longitudinal
 keywords: Continuous-time, discrete-time, Vector Autoregressive, VAR, first order, lagged relationships, time interval, experience sampling, repeated measurements data, psychology, dynamic networks
 ---
 
-Myself, Rebecca Kuiper and Ellen Hamaker have recently completed work on a book chapter, providing a broad didactical treatment of the continuous-time (CT) first-order vector autoregressive (VAR(1)) model in the context of psychological research using intensive longitudinal (ESM) data. The pre-print of this book chapter is avaiable for download [here](https://ryanoisin.github.io/files/RyanKuiperHamaker_2018_chapter_preprint.pdf). 
+Myself, Rebecca Kuiper and Ellen Hamaker have recently completed work on a book chapter, providing a broad didactical treatment of the continuous-time (CT) first-order vector autoregressive (VAR(1)) model in the context of psychological research using intensive longitudinal (ESM) data. The pre-print of this book chapter is avaiable for download [here](https://ryanoisin.github.io/files/RyanKuiperHamaker_preprint.pdf). 
 
 In this chapter we describe the conceptual and practical differences between discrete-time and continous-time approaches, as well as discussing tools like impulse response functions, vector fields and lagged-parameter plots which can be used to interpret CT-VAR(1) models. 
 
