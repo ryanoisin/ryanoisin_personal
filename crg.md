@@ -6,7 +6,7 @@ permalink: /crg/
 
 |**Date**  |**Reading**  	|**Discussant**   	|**Materials**  	|
 |--------	     |:---------:	          |:---	              |:---:	|
-|8 Nov 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 2) <br> by Hernán and Robins (2018)   	| Hans Landsheer|[[Slides]](/files/crgpres/Chapter3HernansRobins_Landsheer.ppt) |
+|8 Nov 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 3) <br> by Hernán and Robins (2018)   	| Hans Landsheer|[[Slides]](/files/crgpres/Chapter3HernansRobins_Landsheer.ppt) |
 |25 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 2) <br> by Hernán and Robins (2018)   	| Oisín Ryan	| |
 |11 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 1) <br> by Hernán and Robins (2018)   	| Ellen Hamaker	| |
 |12 Apr 18  	| [On Confounding, Prediction and Efficiency <br>in the Analysis of Longitudinal <br> and Cross-sectional Clustered Data](http://www.jstor.org/stable/pdf/41548565.pdf) <br> by Stijn Vansteelandt (2007)   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG9.pdf)|
