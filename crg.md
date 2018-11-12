@@ -16,3 +16,6 @@ permalink: /crg/
 |15 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058) <br> by Judea Pearl (2016)   	| Ellen Hamaker	| [[PDF]](/files/crgpres/CRG8.pdf)|
 |29 Mar 18  	| [Lord's Paradox Revisited](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA615058)  <br> Regression towards the Mean | Ellen Hamaker	| [[R-script 1]](/files/crgpres/regression_towards_mean.R) <br> [[R-script 2]](/files/crgpres/ols_vs_pca_manipulate.R)|
 |12 Apr 18  	| [On Confounding, Prediction and Efficiency <br>in the Analysis of Longitudinal <br> and Cross-sectional Clustered Data](http://www.jstor.org/stable/pdf/41548565.pdf) <br> by Stijn Vansteelandt (2007)   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG9.pdf)|
+|11 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 1) <br> by Hernán and Robins (2018)   	| Ellen Hamaker	| |
+|25 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 2) <br> by Hernán and Robins (2018)   	| Oisín Ryan	| |
+|8 Nov 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2018/08/hernanrobins_v1.10.36.pdf) (chapter 2) <br> by Hernán and Robins (2018)   	| Hans Landsheer|[[Slides]](/files/crgpres/Chapter3HernansRobins_Landsheer.ppt) |
