@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Conference presentations
 permalink: /presentations/
 ---
 
-
-# Conference presentations
 
 Ryan, O. & Haslbeck, J.M.B (2018) Challenges in characterizing psychopathologies as unhealthy
 dynamic systems. Conference on Complex Systems (CCS), Thessaloniki, Greece. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/CCS_OR_web.pdf)
