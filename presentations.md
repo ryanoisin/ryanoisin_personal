@@ -1,3 +1,10 @@
+---
+layout: page
+title: Presentations
+permalink: /presentations/
+---
+
+
 # Conference presentations
 
 Ryan, O. & Haslbeck, J.M.B (2018) Challenges in characterizing psychopathologies as unhealthy
