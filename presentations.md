@@ -27,7 +27,7 @@ Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Mode
 
 ## Invited presentations and workshops
 
-Ryan, O. (6th Dec 2018) Continuous-time VAR(1) models: What, Why and How?. iLab, University Centre for Psychiatry, University Medical Centre Groningen [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Groningen_ilab_18_OR.pdf)
+Ryan, O. (6th Dec 2018) Continuous-time VAR(1) models: What, Why and How? iLab, University Centre for Psychiatry, University Medical Centre Groningen [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Groningen_ilab_18_OR.pdf)
 
 Ryan, O. (2018) Dynamic Structural Equation Modeling of Intensive Longitudinal Data. Longitudinal Data Analysis meeting, Dynamics of Youth project, Utrecht University. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/RyanTrimbosDSEM.pdf)
 
