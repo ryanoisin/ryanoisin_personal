@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 ## Under review/submitted
-Dablander, F.<nowiki>*</nowiki>, <strong>Ryan, O.</strong> <nowiki>*</nowiki>, & Haslbeck, J. M. B.<nowiki>*</nowiki> (submitted). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. https://doi.org/10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Supplementary Materials]](https://github.com/jmbh/ARVAR)
+Dablander, F.<nowiki>*</nowiki>, Ryan, O.<nowiki>*</nowiki>, & Haslbeck, J. M. B.<nowiki>*</nowiki> (submitted). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. https://doi.org/10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Supplementary Materials]](https://github.com/jmbh/ARVAR)
 
 **Ryan, O.** (submitted). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
