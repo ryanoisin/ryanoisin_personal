@@ -8,7 +8,7 @@ permalink: /crg/
 |--------	     |:---------:	          |:---	              |:---:	|
 |24 Jan 19  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (Ch.5: Interaction) <br> by Hernán and Robins (2018)   	| Hans Landsheer| |
 |13 Dec 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (Ch.4: Effect Modification) <br> by Hernán and Robins (2018)   	| Ellen Hamaker| |
-|8 Nov 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (Ch.3:Observational Studies) <br> by Hernán and Robins (2018)   	| Hans Landsheer|[[Slides]](/files/crgpres/Chapter3HernansRobins_Landsheer.ppt) |
+|8 Nov 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (Ch.3: Observational Studies) <br> by Hernán and Robins (2018)   	| Hans Landsheer|[[Slides]](/files/crgpres/Chapter3HernansRobins_Landsheer.ppt) |
 |25 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (Ch.2: Randomized Experiments) <br> by Hernán and Robins (2018)   	| Oisín Ryan	| |
 |11 Oct 18  	| [Causal Inference](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/02/hernanrobins_v1.10.38.pdf) (chapter 1) <br> by Hernán and Robins (2018)   	| Ellen Hamaker	| |
 |12 Apr 18  	| [On Confounding, Prediction and Efficiency <br>in the Analysis of Longitudinal <br> and Cross-sectional Clustered Data](http://www.jstor.org/stable/pdf/41548565.pdf) <br> by Stijn Vansteelandt (2007)   	| Oisín Ryan	| [[PDF]](/files/crgpres/CRG9.pdf)|
