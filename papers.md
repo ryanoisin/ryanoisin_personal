@@ -11,7 +11,7 @@ Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J. M. B.\* (submitted). Choosing be
 
 ## Published
 
-Hamaker, E.L. & **Ryan, O.** (2019). A squared standard error is not a measure of individual differences. Proceedings of the National Academy of Sciences DOI: 10.1073/pnas.1818033116 [[Online]](https://www.pnas.org/content/early/2019/03/18/1818033116)
+Hamaker, E.L. & **Ryan, O.** (2019). A squared standard error is not a measure of individual differences. *Proceedings of the National Academy of Sciences*, DOI: 10.1073/pnas.1818033116 [[Online pre-print]](https://www.pnas.org/content/early/2019/03/18/1818033116)
 
 **Ryan, O.**, Kuiper, R. M., & Hamaker, E. L. (2018). A continuous time approach to intensive longitudinal data: What, Why and How? In K. v. Montfort, J. H. L. Oud, & M. C. Voelkle (Eds.), *Continuous time modeling in the behavioral and related sciences*. New York: Springer.[[Pre-Print PDF]](https://ryanoisin.github.io/files/RyanKuiperHamaker_preprint.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/continuous_time-ILD-what-why-how)
 
