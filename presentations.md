@@ -4,7 +4,6 @@ title: Conference presentations
 permalink: /presentations/
 ---
 
-
 Ryan, O. & Haslbeck, J.M.B (2018) Challenges in characterizing psychopathologies as unhealthy
 dynamic systems. Conference on Complex Systems (CCS), Thessaloniki, Greece. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/CCS_OR_web.pdf)
 
@@ -26,6 +25,8 @@ Ryan, O. (2016) Mediation and path-specific effects in continuous-time VAR(1) mo
 Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Modeling. Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS) 31st Summer Conference, Twente, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/iops16_6.pdf)
 
 ## Invited presentations and workshops
+
+Ryan, O. (6th May 2019). Mapping Statistical Models to Causal Structures. McNally Laboratory, Department of Psychology, Harvard Univeristy [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/harvardpsych_May19_OR.pdf)
 
 Ryan, O. (6th Dec 2018) Continuous-time VAR(1) models: What, Why and How? iLab, University Centre for Psychiatry, University Medical Centre Groningen [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Groningen_ilab_18_OR.pdf)
 
