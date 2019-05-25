@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 ## Under review/submitted
-Ryan, O., Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models. [[R-package]](https://github.com/ryanoisin/SEset)
+**Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models. [[R-package]](https://github.com/ryanoisin/SEset)
 
 Kuiper, R.M. & **Ryan, O.** (submitted) Meta-analysis of lagged regression models: A continuous-time approach. DOI: 10.31234/osf.io/5etkx [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
 
