@@ -7,6 +7,8 @@ permalink: /papers/
 ## Under review/submitted
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models. [[R-package]](https://github.com/ryanoisin/SEset)
 
+Hamaker, E.L., **Ryan, O.** & Schuurman, N.K. (under review) Making more sense of within-person versus between-person dierences in multilevel intensive longitudinal data. *European Journal of Psychological Assessment*.
+
 Kuiper, R.M. & **Ryan, O.** (submitted) Meta-analysis of lagged regression models: A continuous-time approach. DOI: 10.31234/osf.io/5etkx [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
 
 Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (submitted) Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. DOI: 10.31234/osf.io/c8vp7 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
