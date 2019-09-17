@@ -10,6 +10,8 @@ Kuiper, R.M. & **Ryan, O.** (in press) Meta-analysis of lagged regression models
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models. [[R-package]](https://github.com/ryanoisin/SEset)
 
+Haslbeck, J. M. B.\* & **Ryan, O.**\*  (under review) Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
+
 Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (under review) Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. DOI: 10.31234/osf.io/c8vp7 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J. M. B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
