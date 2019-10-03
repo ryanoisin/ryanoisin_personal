@@ -8,7 +8,7 @@ permalink: /papers/
 
 Kuiper, R.M. & **Ryan, O.** (in press) Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*. DOI: 10.31234/osf.io/5etkx [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
 
-**Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models. [[R-package]](https://github.com/ryanoisin/SEset)
+**Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
 Haslbeck, J. M. B.\* & **Ryan, O.**\*  (under review) Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
 
@@ -16,7 +16,7 @@ Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringman
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J. M. B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
-**Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[Pre-print PDF]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+**Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
 
