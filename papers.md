@@ -6,7 +6,7 @@ permalink: /papers/
 
 ## Under review/submitted
 
-Kuiper, R.M. & **Ryan, O.** (in press) Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*. DOI: 10.31234/osf.io/5etkx [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
+
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review) The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
@@ -19,6 +19,10 @@ Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J. M. B.\* (under review). Choosing
 **Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
+
+Kuiper, R.M. & **Ryan, O.** (in press) Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*. DOI: 10.31234/osf.io/5etkx [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2019.1652613) [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
+
+https://www.tandfonline.com/doi/full/10.1080/10705511.2019.1652613
 
 Hamaker, E.L. & **Ryan, O.** (2019). A squared standard error is not a measure of individual differences. *Proceedings of the National Academy of Sciences*, DOI: 10.1073/pnas.1818033116 [[Online pre-print]](https://www.pnas.org/content/early/2019/03/18/1818033116)
 
