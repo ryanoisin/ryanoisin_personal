@@ -16,7 +16,7 @@ Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringman
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J. M. B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
-**Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/meditionandcausal_final.pdf) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+**Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
 
