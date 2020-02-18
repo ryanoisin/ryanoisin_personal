@@ -8,7 +8,7 @@ permalink: /papers/
 
 ## Under review/submitted
 
-Haslbeck, J. M. B.\*, **Ryan, O**.\*, Robinaugh, D.\*, Waldorp, L. J., & Borsboom, D. (submitted). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
+Haslbeck, J. M. B.\*, **Ryan, O.\***, Robinaugh, D.\*, Waldorp, L. J., & Borsboom, D. (submitted). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
