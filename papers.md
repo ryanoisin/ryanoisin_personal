@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+**(\*) Denotes Joint First Authorship**
+
 ## Under review/submitted
 
 Haslbeck, J. M. B.\*, **Ryan, O**.\*, Robinaugh, D.\*, Waldorp, L. J., & Borsboom, D. (submitted). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
