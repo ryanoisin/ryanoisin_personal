@@ -8,7 +8,7 @@ permalink: /papers/
 
 ## Under review/submitted
 
-**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality
+**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality.
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (under review) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y)
 
@@ -16,11 +16,13 @@ Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
+Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Hartman, C.A., & Wichers, M. (under review)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks.
+
+Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (under review). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. DOI: 10.31234/osf.io/c8vp7 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
+
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (submitted). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (submitted). Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
-
-Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (under review). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. DOI: 10.31234/osf.io/c8vp7 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
 
 **Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
