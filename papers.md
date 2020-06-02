@@ -8,11 +8,13 @@ permalink: /papers/
 
 ## Under review/submitted
 
+Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores.  [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
+
+**Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
+
 **Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality.
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (under review) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y)
-
-**Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
