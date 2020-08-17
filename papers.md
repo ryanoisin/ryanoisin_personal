@@ -20,8 +20,6 @@ Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (under review). Choosing b
 
 Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Hartman, C.A., & Wichers, M. (under review)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks.
 
-Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (under review). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. DOI: 10.31234/osf.io/c8vp7 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
-
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (under review). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (submitted). Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
@@ -29,6 +27,8 @@ Haslbeck, J.M.B.\* & **Ryan, O.**\*  (submitted). Recovering Bistable Systems fr
 **Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
+
+Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (2020). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. *Journal of Psychosomatic Research* https://doi.org/10.1016/j.jpsychores.2020.110211 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
 
 Kuiper, R.M. & **Ryan, O.** (2019). Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*. DOI:  10.1080/10705511.2019.1652613 [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2019.1652613) [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
 
