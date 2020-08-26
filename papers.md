@@ -8,7 +8,9 @@ permalink: /papers/
 
 ## Under review/submitted
 
-Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores.  [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
+Haslbeck, J.M.B.\* & **Ryan, O.**\*  (under review). Recovering Within-Person Dynamics from Psychological Time Series. DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
+
+Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
@@ -22,9 +24,6 @@ Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.
 
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (under review). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
-Haslbeck, J.M.B.\* & **Ryan, O.**\*  (submitted). Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
-
-**Ryan, O.** (in preperation). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
 
 ## Published
 
@@ -41,6 +40,16 @@ Kuiper, R.M., & **Ryan, O.** (2018). Drawing Conclusions from Cross-Lagged Relat
 van de Schoot, R., Winter, S. D., **Ryan, O.**, Zondervan-Zwijnenburg, M., & Depaoli, S. (2017). A systematic review of Bayesian articles in psychology: The last 25 years. *Psychological Methods*, *22*(2), 217-239. [[Full-text on ResearchGate]](https://www.researchgate.net/publication/317831797_A_systematic_review_of_Bayesian_articles_in_psychology_The_last_25_years)
 
 Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen, N., ... **Ryan, O.**, & Stephan, E. & Vingerhoets, A . J. J.  (2014). Pancultural nostalgia: prototypical conceptions across cultures. *Emotion*, 14(4), 733-747.[[Full-text on ResearchGate]](https://www.researchgate.net/publication/260338590_Pancultural_Nostalgia_Prototypical_Conceptions_Across_Cultures)
+
+## Pre-prints no longer under development
+
+*Note*: These projects have been published on PsyArXiv but have been significantly re-worked into new projects with different titles
+
+Haslbeck, J.M.B.\* & **Ryan, O.**\*  (2019). Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
+*Note*: A revised version of this manuscript is available on PsyArxiV under the title *Recovering Within-Person Dynamics from Psychological Time Series*
+
+**Ryan, O.** (2018). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+*Note*: Major parts of this project have been used in the development of the paper *Time to Intervene: A Continuous Time Approach to Network Analysis and Centrality*
 
 
 
