@@ -22,7 +22,7 @@ Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum o
 
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (under review). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
-**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality.
+**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [Reproducibility Archive]](https://osf.io/9sgdn/)
 
 
 ## Published
