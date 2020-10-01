@@ -13,13 +13,11 @@ Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (in press) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. *Perspectives on Psychological Science*. [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y)
 
-Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Hartman, C.A., & Wichers, M. (in press)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks. *BMC Medicine*
+Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (in press). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (under review). Recovering Within-Person Dynamics from Psychological Time Series. DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
-
-Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (under review). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
 Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
@@ -30,9 +28,11 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 
 ## Published
 
-Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (2020). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. *Journal of Psychosomatic Research* https://doi.org/10.1016/j.jpsychores.2020.110211 [[PsyArXiv pre-print]](https://psyarxiv.com/c8vp7/)
+Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Wichers, M. & Hartman, C.A. (in press)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks. *BMC Medicine*, *18*, DOI: 10.1186/s12916-020-01738-z [[Open Access Full Text]](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01738-z) [[Reproducibility Archive]](https://osf.io/jzru8/)
 
-Kuiper, R.M. & **Ryan, O.** (2019). Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*. DOI:  10.1080/10705511.2019.1652613 [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2019.1652613) [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
+Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (2020). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. *Journal of Psychosomatic Research*, *137*, DOI: 10.1016/j.jpsychores.2020.110211 [[Open Access Full Text]](https://doi.org/10.1016/j.jpsychores.2020.110211) [[Reproducibility Archive]](https://osf.io/h3djy/)
+
+Kuiper, R.M. & **Ryan, O.** (2019). Meta-analysis of lagged regression models: A continuous-time approach. *Structural Equation Modeling*, *27*(3), 396-413, DOI:  10.1080/10705511.2019.1652613 [[Open Access Full Text]](https://www.tandfonline.com/doi/full/10.1080/10705511.2019.1652613) [[PsyArXiv Pre-print]](https://psyarxiv.com/5etkx)[[R-package]](https://github.com/rebeccakuiper/CTmeta)
 
 Hamaker, E.L. & **Ryan, O.** (2019). A squared standard error is not a measure of individual differences. *Proceedings of the National Academy of Sciences*, *116*(14), 6544-6545. DOI: 10.1073/pnas.1818033116 [[Online pre-print]](https://www.pnas.org/content/early/2019/03/18/1818033116)
 
