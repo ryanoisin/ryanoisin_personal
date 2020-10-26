@@ -7,7 +7,7 @@ permalink: /papers/
 **(\*) Denotes Joint First Authorship**
 
 ## Dissertation
-Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting Data and Theory* (Doctoral Dissertation) [[PDF]](https://ryanoisin.github.io/files/ORyanDissertation.pdf)
+Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting Data and Theory* (Doctoral Dissertation). DOI: https://doi.org/10.33540/258. ISBN: 978-94-6416-145-8 [[PDF]](https://ryanoisin.github.io/files/ORyanDissertation.pdf) [[UU Repository]](https://dspace.library.uu.nl/handle/1874/400005)
 
 ## Under review/submitted
 
@@ -28,7 +28,7 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 
 ## Published
 
-Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Wichers, M. & Hartman, C.A. (in press)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks. *BMC Medicine*, *18*, DOI: 10.1186/s12916-020-01738-z [[Open Access Full Text]](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01738-z) [[Reproducibility Archive]](https://osf.io/jzru8/)
+Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Wichers, M. & Hartman, C.A. (2020)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks. *BMC Medicine*, *18*, DOI: 10.1186/s12916-020-01738-z [[Open Access Full Text]](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01738-z) [[Reproducibility Archive]](https://osf.io/jzru8/)
 
 Bastiaansen, J.A., Kunkels, Y.K. , ..., **Ryan, O.**, ... Albers, C.J., Bringmann, L.F. (2020). Time to get personal? The impact of researchers’ choices on the selection of treatment targets using the experience sampling methodology. *Journal of Psychosomatic Research*, *137*, DOI: 10.1016/j.jpsychores.2020.110211 [[Open Access Full Text]](https://doi.org/10.1016/j.jpsychores.2020.110211) [[Reproducibility Archive]](https://osf.io/h3djy/)
 
