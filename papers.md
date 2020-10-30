@@ -13,8 +13,6 @@ Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (in press) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. *Perspectives on Psychological Science*. [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y)
 
-Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (in press). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. DOI: 10.31234/osf.io/qgewy [[PsyArXiv Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
-
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (under review). Recovering Within-Person Dynamics from Psychological Time Series. DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
@@ -27,6 +25,9 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 
 
 ## Published
+
+Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (2020). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. *PLoS
+ONE, 15*(10): e0240730. https://doi.org/10.1371/journal.pone.0240730 [[Open Access Full Text]](https://doi.org/10.1371/journal.pone.0240730) [[Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
 
 Groen, R.N., **Ryan, O.**, Wigman, J.T., Riese, H., Penninx, B.W.J.H, Giltay, E.J., Wichers, M. & Hartman, C.A. (2020)  Comorbidity between depression and anxiety: assessing the role of bridge mental states in dynamic psychological networks. *BMC Medicine*, *18*, DOI: 10.1186/s12916-020-01738-z [[Open Access Full Text]](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01738-z) [[Reproducibility Archive]](https://osf.io/jzru8/)
 
