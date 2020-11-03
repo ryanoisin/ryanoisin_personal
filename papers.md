@@ -9,7 +9,7 @@ permalink: /papers/
 ## Dissertation
 Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting Data and Theory* (Doctoral Dissertation). DOI: https://doi.org/10.33540/258. ISBN: 978-94-6416-145-8 [[PDF]](https://ryanoisin.github.io/files/ORyanDissertation.pdf) [[UU Repository]](https://dspace.library.uu.nl/handle/1874/400005)
 
-## Under review/submitted
+## Pre-prints
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (in press) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. *Perspectives on Psychological Science*. [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y)
 
