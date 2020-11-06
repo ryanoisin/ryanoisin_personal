@@ -52,7 +52,7 @@ Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (2019). Recovering Bistable Systems from Psychological Time Series. DOI: 10.31234/osf.io/kcv3s. [[PsyArXiv Pre-print]](https://psyarxiv.com/kcv3s/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringBistableSystems)
 *Note*: A revised version of this manuscript is available on PsyArxiV under the title *Recovering Within-Person Dynamics from Psychological Time Series*
 
-**Ryan, O.** (2018). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects)
+**Ryan, O.** (2018). Interventions in dynamic systems: A causal approach to continuous-time mediation analysis. [[PsyArXiv Pre-print]](https://psyarxiv.com/n2fwt/) [[Supplementary Materials]](https://github.com/ryanoisin/ct_path_effects) 
 *Note*: Major parts of this project have been used in the development of the paper *Time to Intervene: A Continuous Time Approach to Network Analysis and Centrality*
 
 
