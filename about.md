@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD candidate in the Methods and Statistics department (faculty of Social Sciences) at Utrecht University. Having graduated from the M&S research masters programme at Utrecht University in 2015, I received an Talent Grant from NWO for the PhD project *Not straightforward: Mediation and networks in continuous time* under the supervision of Ellen Hamaker. 
+I am a postdoc at the Methods and Statistics department (faculty of Social Sciences) at Utrecht University. Having graduated from the M&S research masters programme at Utrecht University in 2015, I received a Talent Grant from the Netherlands Organization for Scientific Research (NWO) to undertake a PhD project under the supervision of Ellen Hamaker. I succesfully defended my dissertation ([*Dynamic Systems and Casual Structures in Psychology: Connecting Data and Theory*](https://dspace.library.uu.nl/handle/1874/400005)) cum laude on October 30th 2020. 
 
-My project touches on diverse fields such as SEM, time-series analysis, stochastic processes, formal approaches to causal inference and complex systems analysis. I currently organize the *Causality Reading Group* at the M&S department, meeting every fortnight. My teaching duties currently include Theory Construction and Statistical Modeling, a bachelor minor course in factor analysis and SEM, and the Mplus Summer School.
+My research touches on diverse fields such as differential equation modeling, time-series analysis, stochastic processes, formal approaches to causal inference, complex systems analysis and theory formalization. Primarily I'm interested in how to apply these different frameworks to study psychological phenomena, with a focus on clinical psychology.
 
 ### Contact me
 
