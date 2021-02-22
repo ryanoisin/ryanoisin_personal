@@ -24,7 +24,8 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 
 ## Published
 
-Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (2021) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [*Perspectives on Psychological Science*.](https://journals.sagepub.com/doi/full/10.1177/1745691620974697) [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y) [[Reproducibility Archive]](https://osf.io/gcqnf/)
+Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (2021) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [*Perspectives on Psychological Science*.](https://journals.sagepub.com/doi/full/10.1177/1745691620974697) DOI:10.1177/1745691620974697  [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y) [[Reproducibility Archive]](https://osf.io/gcqnf/)
+
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (2020). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. *PLoS
 ONE, 15*(10): e0240730. https://doi.org/10.1371/journal.pone.0240730 [[Open Access Full Text]](https://doi.org/10.1371/journal.pone.0240730) [[Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
