@@ -11,21 +11,20 @@ Ryan, O. (2020) *Dynamic Systems and Causal Structures in Psychology: Connecting
 
 ## Pre-prints
 
+Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (in press). Modeling Psychopathology: From Data Models to Formal Theories. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
+
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (in press). Recovering Within-Person Dynamics from Psychological Time Series. *Multivariate Behavioral Research*. Pre-print DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
+
+**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
 Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (under review). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
-Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (under review). Modeling Psychopathology: From Data Models to Formal Theories. [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
-
-**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/)
-
 
 ## Published
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (2021) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [*Perspectives on Psychological Science*.](https://journals.sagepub.com/doi/full/10.1177/1745691620974697) DOI:10.1177/1745691620974697  [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y) [[Reproducibility Archive]](https://osf.io/gcqnf/)
-
 
 Dablander, F.\*, **Ryan, O.**\*, & Haslbeck, J.M.B.\* (2020). Choosing between AR (1) and VAR (1) Models in Typical Psychological Applications. *PLoS
 ONE, 15*(10): e0240730. https://doi.org/10.1371/journal.pone.0240730 [[Open Access Full Text]](https://doi.org/10.1371/journal.pone.0240730) [[Pre-print]](https://psyarxiv.com/qgewy/) [[Reproducibility Archive]](https://github.com/jmbh/ARVAR)
