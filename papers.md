@@ -15,7 +15,7 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (in press). Recovering Within-Person Dynamics from Psychological Time Series. *Multivariate Behavioral Research*. Pre-print DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
 
-**Ryan, O.** & Hamaker, E.L. (under review) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/)
+**Ryan, O.** & Hamaker, E.L. (accepted) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika* [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
