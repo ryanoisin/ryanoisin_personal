@@ -26,6 +26,8 @@ Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Mode
 
 ## Invited presentations and workshops
 
+Ryan, O. (17 & 18 March 2021). Introduction to Dynamic Structural Equation Modeling. Peer Mentoring Projekt Methoden und Statistik (MuSt), Psychological Instititute, University of Zurich. [[Slides Day 1: Panel Data]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Day1_Lecture.pdf)[[Slides Day 2: Single-Subject and Multilevel Time-Series]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Day1_Lecture.pdf)
+
 Ryan, O. (6th May 2019). Mapping Statistical Models to Causal Structures. McNally Laboratory, Department of Psychology, Harvard Univeristy [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/harvardpsych_May19_OR.pdf)
 
 Ryan, O. (6th Dec 2018) Continuous-time VAR(1) models: What, Why and How? iLab, University Centre for Psychiatry, University Medical Centre Groningen [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Groningen_ilab_18_OR.pdf)
