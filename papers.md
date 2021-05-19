@@ -17,7 +17,7 @@ Haslbeck, J.M.B.\* & **Ryan, O.**\*  (in press). Recovering Within-Person Dynami
 
 **Ryan, O.** & Hamaker, E.L. (accepted) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika* [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/) [[R-package]](https://github.com/ryanoisin/ctnet)
 
-Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (accepted). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
+Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (accepted). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
