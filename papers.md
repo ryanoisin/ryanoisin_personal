@@ -15,13 +15,16 @@ permalink: /papers/
 
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (in press). Modeling Psychopathology: From Data Models to Formal Theories. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
-Haslbeck, J.M.B.\* & **Ryan, O.**\*  (in press). Recovering Within-Person Dynamics from Psychological Time Series. *Multivariate Behavioral Research*. Pre-print DOI: 10.31234/osf.io/dymhw. [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
-
 **Ryan, O.** & Hamaker, E.L. (accepted) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika* [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/) [[R-package]](https://github.com/ryanoisin/ctnet)
 
 Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (accepted). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
 ## Published
+
+Haslbeck, J.M.B.\* & **Ryan, O.**\*  (2021). Recovering Within-Person Dynamics from Psychological Time Series. *Multivariate Behavioral Research*. DOI: 10.1080/00273171.2021.1896353 [[Open Access Article]](https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1896353) [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
+
+
+
 
 Robinaugh, D.J, Haslbeck, J. M. B., **Ryan, O.**, Fried, E.I. & Waldorp, L. J. (2021) Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction. [*Perspectives on Psychological Science*.](https://journals.sagepub.com/doi/full/10.1177/1745691620974697) DOI:10.1177/1745691620974697  [[PsyArXiv Pre-print]](https://psyarxiv.com/ugz7y) [[Reproducibility Archive]](https://osf.io/gcqnf/)
 
