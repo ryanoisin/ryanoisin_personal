@@ -19,7 +19,7 @@ Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboo
 Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (accepted). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
 
 ## Published
-**Ryan, O.** & Hamaker, E.L. (2021) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika*  https://doi.org/10.1007/s11336-021-09767-0 [[R-package]](https://github.com/ryanoisin/ctnet) [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/) 
+**Ryan, O.** & Hamaker, E.L. (2021) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika*. [DOI: 10.1007/s11336-021-09767-0](   https://doi.org/10.1007/s11336-021-09767-0) [[R-package]](https://github.com/ryanoisin/ctnet) [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/) 
 
 Haslbeck, J.M.B.\* & **Ryan, O.**\*  (2021). Recovering Within-Person Dynamics from Psychological Time Series. *Multivariate Behavioral Research*. DOI: 10.1080/00273171.2021.1896353 [[Open Access Article]](https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1896353) [[PsyArXiv Pre-print]](https://psyarxiv.com/dymhw/) [[Reproducibility Archive]](https://github.com/jmbh/RecoveringWithinPersonDynamics)
 
