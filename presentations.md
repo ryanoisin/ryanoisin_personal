@@ -25,6 +25,7 @@ Ryan, O. (2016) Mediation and path-specific effects in continuous-time VAR(1) mo
 Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Modeling. Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS) 31st Summer Conference, Twente, The Netherlands. [[Slides]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/iops16_6.pdf)
 
 ## Invited presentations and workshops
+Ryan, O. \& Schuurman, N.K. (19 July, 2021). Modeling Intensive Longitudinal Data in Discrete and Continuous Time: The basics. Pre-Conference Workshop. 9th European Congress of Methodology, Valencia. EAM 2021. [[Lecture and Lab materials]](https://github.com/ryanoisin/ModelingILD_EAM21)
 
 Ryan, O. (17 & 18 March 2021). Introduction to Dynamic Structural Equation Modeling. Peer Mentoring Projekt Methoden und Statistik (MuSt), Psychological Instititute, University of Zurich. [[Slides Day 1: Panel Data]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Day1_Lecture.pdf)[[Slides Day 2: Single-Subject and Multilevel Time-Series]](https://github.com/ryanoisin/ryanoisin.github.io/blob/master/files/presentations/Day1_Lecture.pdf)
 
