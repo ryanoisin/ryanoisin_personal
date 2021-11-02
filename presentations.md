@@ -30,6 +30,8 @@ Ryan, O. (2016) Mediation, Time and Causality: Lessons from Continuous-Time Mode
 
 ## Invited presentations and workshops
 
+Ryan, O. (November 2, 2021). Introduction to Causal Modeling Part 1: Causal Inference. Digital Health Masterclass, University Medical Centre Utrecht. Part of the [Education for Professionals](https://www.uu.nl/en/news/utrecht-education-incentive-fund-uso-has-selected-six-teacher-driven-innovation-projects) project. [[Workshop Materials]](https://github.com/ryanoisin/IntroCausalModeling2021)
+
 Ryan, O., Haslbeck, J.M.B & Robinaugh, D.J. (October 15, 2021) Motifs of Psychological Dynamics: Feedback Loops. Psychosystems Lab Meeting. University of Amsterdam.
 
 Ryan, O. & Dablander, Fabian. (October 6, 2021) Equilibrium Causal Models: Connecting Dynamical Systems and Cross-Sectional Data. From Data to Causes Workshop. Methods Group, Humboldt University Berlin.
