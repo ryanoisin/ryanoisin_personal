@@ -34,6 +34,8 @@ Ryan, O. (December 10, 2021). Introduction to Causal Modeling Part 2: Causal Dis
 
 Ryan, O. (November 2, 2021). Introduction to Causal Modeling Part 1: Causal Inference. Digital Health Masterclass, University Medical Centre Utrecht. Part of the [Education for Professionals](https://www.uu.nl/en/news/utrecht-education-incentive-fund-uso-has-selected-six-teacher-driven-innovation-projects) project. [[Workshop Materials]](https://github.com/ryanoisin/IntroCausalModeling2021)
 
+Ryan, O. (November 18 & 19, 2021). Modeling Intensive Longitudinal Data in Discrete and Continuous Time. Peer Mentoring Projekt R group, Psychological Instititute, University of Zurich. [[Lecture and Lab materials]](https://github.com/ryanoisin/ModelingILD_UZH21)
+
 Ryan, O., Haslbeck, J.M.B & Robinaugh, D.J. (October 15, 2021) Motifs of Psychological Dynamics: Feedback Loops. Psychosystems Lab Meeting. University of Amsterdam.
 
 Ryan, O. & Dablander, Fabian. (October 6, 2021) Equilibrium Causal Models: Connecting Dynamical Systems and Cross-Sectional Data. From Data to Causes Workshop. Methods Group, Humboldt University Berlin.
