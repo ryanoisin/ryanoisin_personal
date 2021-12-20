@@ -11,11 +11,9 @@ permalink: /papers/
 
 **Ryan, O.**, Bringmann, L.F., & Schuurman, N.K. (under review). The Challenge of Generating Causal Hypotheses Using Network Models.[[PsyArXiv Pre-print]](https://psyarxiv.com/ryg69/) [[R-package]](https://github.com/ryanoisin/SEset) [[Reproducibility Archive]](https://github.com/ryanoisin/CausalHypotheses)
 
-## Accepted/In Press
-
-Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (accepted). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. *Psychological Methods* [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
-
 ## Published
+Haslbeck, J.M.B.\*, **Ryan, O.**\*, & Dablander, F.\*  (2021). The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores. *Psychological Methods*. [DOI: 10.1037/met0000418](https://doi.org/10.1037/met0000418) [[PsyArXiv Pre-print]](https://psyarxiv.com/3nxu9/) [[Reproducibility Archive]](https://github.com/jmbh/NetworkGroupDifferences)
+
 Haslbeck, J.M.B.\*, **Ryan, O.\***, Robinaugh, D.J.\*, Waldorp, L. J., & Borsboom, D. (2021). Modeling Psychopathology: From Data Models to Formal Theories. *Psychological Methods*. [DOI: 10.1037/met0000303](https://doi.org/10.1037/met0000303) [[PsyArXiv Pre-print]](https://psyarxiv.com/jgm7f/) [[Reproducibility Archive]](https://osf.io/bnteg/)
 
 **Ryan, O.** & Hamaker, E.L. (2021) Time to Intervene: A Continuous-Time Approach to Network Analysis and Centrality. *Psychometrika*. [DOI: 10.1007/s11336-021-09767-0](   https://doi.org/10.1007/s11336-021-09767-0) [[R-package]](https://github.com/ryanoisin/ctnet) [[PsyArXiv Pre-print]](https://psyarxiv.com/2ambn) [[Reproducibility Archive]](https://osf.io/9sgdn/) 
